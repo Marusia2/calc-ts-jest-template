@@ -4,6 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
+    "test:sum": "jest /test/sum.test.ts",
     "format": "npx prettier --write ."
   },
   "keywords": [],
