@@ -56,4 +56,5 @@ describe('Test KYC for Latvia', () => {
         }).toThrow('User is too young')
     })
 
+
 })
